@@ -10,7 +10,7 @@ The Analysis is divided into three major steps:
 ## Preparation of Data-set:
 - We have used the PushshiftAPI to crawl data.- The API has a get request with different query parameters and return JSON object containing the post information. </br>
 
-Sample URL:   https://api.pushshift.io/reddit/submission/search/?after=1577750400&subreddit=emacs&size=100&sort_type=created_utc&sort=asc&fields=author,author_fullname,created_utc,domain,full_link,is_crosspostable,link_flair_text,num_comments,num_crossposts,over_18,permalink,score,selftext,title,total_awards_received
+- Sample URL:   https://api.pushshift.io/reddit/submission/search/?after=1577750400&subreddit=emacs&size=100&sort_type=created_utc&sort=asc&fields=author,author_fullname,created_utc,domain,full_link,is_crosspostable,link_flair_text,num_comments,num_crossposts,over_18,permalink,score,selftext,title,total_awards_received
 
 - After an analysis of different entries that we received from the API. I have used fields author, author_fullname, created_utc, domain, full_link, is_crosspostable, link_flair_text, num_comments, num_crossposts, over_18, permalink,score, selftext, title, total_awards_received
 
