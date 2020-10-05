@@ -40,5 +40,5 @@ The Analysis is divided into three major steps:
 
 
 ## Data Visualization and conclusion
-- The analysis is captured in Python Notebooks present in `py-notebook` directory.
+- The analysis is captured in Python Notebooks present in `py-notebook` directory. I have added comments below the plots to conclude my findings.
 - The conclusions are summarized in the report file.
